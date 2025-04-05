@@ -1,0 +1,5 @@
+txt = "this is python"
+x = txt.islower()
+print(x)
+
+#output True
